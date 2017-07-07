@@ -1,0 +1,53 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/vvusu/Library/Developer/Xcode/DerivedData/VVUSU-fzztdmeuhsyycdghmxdjwqueopta/Build/Products/Debug-iphonesimulator/LNNetwork.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "LNEncrypt.h",
+          'external-contents': "/Users/vvusu/Downloads/GitHub/iOSSDK/LNNetwork/LNNetwork/Source/LNNetwork/LNEncrypt.h"
+        },
+        {
+          'type': 'file',
+          'name': "LNNetwork-Swift.h",
+          'external-contents': "/Users/vvusu/Library/Developer/Xcode/DerivedData/VVUSU-fzztdmeuhsyycdghmxdjwqueopta/Build/Products/Debug-iphonesimulator/LNNetwork.framework/Headers/LNNetwork-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "LNNetwork.h",
+          'external-contents': "/Users/vvusu/Downloads/GitHub/iOSSDK/LNNetwork/LNNetwork/LNNetwork.h"
+        },
+        {
+          'type': 'file',
+          'name': "LNNetworking.h",
+          'external-contents': "/Users/vvusu/Downloads/GitHub/iOSSDK/LNNetwork/LNNetwork/Source/LNNetwork/LNNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "LNRequest.h",
+          'external-contents': "/Users/vvusu/Downloads/GitHub/iOSSDK/LNNetwork/LNNetwork/Source/LNNetwork/LNRequest.h"
+        },
+        {
+          'type': 'file',
+          'name': "LNResponse.h",
+          'external-contents': "/Users/vvusu/Downloads/GitHub/iOSSDK/LNNetwork/LNNetwork/Source/LNNetwork/LNResponse.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/vvusu/Library/Developer/Xcode/DerivedData/VVUSU-fzztdmeuhsyycdghmxdjwqueopta/Build/Products/Debug-iphonesimulator/LNNetwork.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/vvusu/Downloads/GitHub/iOSSDK/LNNetwork/build/LNNetwork.build/Debug-iphonesimulator/LNNetwork.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
